@@ -9,7 +9,7 @@ Many users access their security dashboard through central.bitdefender.com log i
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://mybitdefender.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with IOLO</a>
+       <a href="https://mybitdefender.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Bitdefender</a>
    </div>
 
 What Is Bitdefender Central GravityZone?
